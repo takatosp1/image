@@ -87,7 +87,7 @@ store the output image. Otherwise, returns a new `res` Tensor.
 
 <a name="image.vflip"></a>
 ### [res] image.vflip([dst,], src) ###
-Flips image `src` vertically (upsize<->down). If `dst` is provided, it is used to
+Flips image `src` vertically (upside<->down). If `dst` is provided, it is used to
 store the output image. Otherwise, returns a new `res` Tensor.
 
 <a name="image.flip"></a>
